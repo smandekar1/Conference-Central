@@ -17,7 +17,7 @@ getSessionsInWishlist() endpoint has been defined and returns all sessions in a 
 
 ## Task 3:  Additional Queries 
 
-getSessionShorterThan - this endpoints get sessions that are shorter than a certain number of minutes.
+getSessionShorterThan - this endpoints gets sessions that are shorter than a certain number of minutes.
 
 getSessionByName - this query allows the user to find a session based on the session name.
 
