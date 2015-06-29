@@ -3,9 +3,13 @@ App Engine application for the Udacity training course.
 ## Changes from last submission
 
 added query for featured speaker to asynchonous task in main.py
+
 removed duplicate send confirmation email function
+
 explained query problem in README.md
+
 did not implement Enum comparison for query problem
+
 was not sure how to improve API path structure for queries
 
 ## Task 1:  Design Choices 
